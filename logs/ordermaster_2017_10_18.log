@@ -1,0 +1,7 @@
+[2017-10-18 18:00:56.568] [INFO] OrderMaster - Server start successfully.
+[2017-10-18 18:00:56.570] [INFO] OrderMaster - Server listening[object Object]
+[2017-10-18 18:01:57.891] [INFO] OrderMaster - Server start successfully.
+[2017-10-18 18:02:43.176] [INFO] OrderMaster - Server start successfully.
+[2017-10-18 18:02:43.177] [INFO] OrderMaster - Server listening{"created":1508320963158,"started":1508320963170,"host":"localhost","port":16351,"protocol":"http","id":"LAPTOP-QB26U5IF:10872:j8wvcvo6","uri":"http://localhost:16351","address":"127.0.0.1"}
+[2017-10-18 18:03:14.499] [INFO] OrderMaster - Server start successfully.
+[2017-10-18 18:03:14.500] [INFO] OrderMaster - Server listening{"created":1508320994484,"started":1508320994493,"host":"localhost","port":16351,"protocol":"http","id":"LAPTOP-QB26U5IF:26440:j8wvdjuc","uri":"http://localhost:16351","address":"127.0.0.1"}
